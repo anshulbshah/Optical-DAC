@@ -5,4 +5,5 @@ Simulation of : "All-Optical Digital-to-Analog Conversion Using Nonlinear Optica
 ![alt text](https://github.com/anshulbshah/Optical-DAC/blob/master/3b.jpg)
 
 
+For implemntation details and working please refer to the following presentation : 
 ![Presentation](https://github.com/anshulbshah/Optical-DAC/blob/master/pres.pptx)
